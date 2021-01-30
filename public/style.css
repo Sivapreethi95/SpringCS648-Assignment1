@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    max-width: 400px;
+    padding: 25px;
+    border: 5px solid gray;
+    margin: auto;
+    margin-top : 50px;
+}
+
+#name {
+    
+    width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+ margin: auto;
+}
+#description {
+    text-align: center;
+}
