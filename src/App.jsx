@@ -15,7 +15,7 @@ const element = (
     </div>
     <br></br>
     <br></br>
-    <a href="https://google.com">
+    <a href="https://github.com/Sivapreethi95/SpringCS648-Assignment1.git"  target="_blank">
         <button type="button">View my Github Repository</button>
     </a>
     </div>
